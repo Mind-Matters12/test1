@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        html{
+            padding:0%;
+            font-family:Arial;
+        }
+        .c1{
+            color:#335e96;
+            font-size:20px;
+            text-align: center;
+            display:flex;
+            align-items:center;
+            
+        }
+    </style>
+</head>
+<body>
+
+    <script type="text/javascript">
+
+        (function(d, t) {
+            var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            v.onload = function() {
+              window.voiceflow.chat.load({
+                verify: { projectID: '64ed81839c1d720007cc027e' },
+                url: 'https://general-runtime.voiceflow.com',
+                versionID: 'production'
+              });
+            }
+            v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+        })(document, 'script');
+      </script>
+
+      <center><div style="overflow:auto; color:white; font-size:28px;background-color:#335e96;font-weight:bold;padding:10px"><img src="https://th.bing.com/th/id/R.747c4b8039548b8f40b81f810aee0734?rik=t9Ds%2fMjmXh315A&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f0%2f2%2f5%2f1516067-mental-health-wallpaper-1920x1080-for-xiaomi.jpg&ehk=rLWCRztbHmHahMNkOA0Dfm7g5CkDwxxrGDFBsZVHlmg%3d&risl=&pid=ImgRaw&r=0" width="100%">
+        <br><br><i>“Mental health is not a destination, but a process. It's about how you drive, not where you're going.”</i>  
+    <br><br></center></div>
+
+        <br><br>
+
+    <div style="background-color:white;margin:5px; font-size:24px; font-family:arial;font-weight:bold; color:#335e96; ">
+        <img src="https://th.bing.com/th/id/OIP.xU9Y7_zffcrZbXy5ucT_lgHaHB?pid=ImgDet&rs=1" style="float:left; max-width:100%; max-height:100% background-color:#335e96; margin:5px;">
+        <br><br><br><br><br><p style="text-align:center;">Not feeling good?<br>Click below to take the mental health test right now.<br><br>
+        <a href="https://sites.google.com/view/mindmatters-peace/mental-health-test">
+        <button type="button" style="background-color:#335e96;border-radius:5px;border:none;height:35px; width:500px; max-width:100%; color:white; font-weight:bold; font-family:arial; font-size:20px;">Click Here!</button></a>
+        <br><br></p><br></div>
+        
+        
+            
+
+            <div style="overflow:auto;background-color:#335e96; font-size:24px; font-family:arial;font-weight:bold; color:white; padding:5px; width:100%;">
+                <img height="400" src="https://th.bing.com/th/id/OIP.bH8IC263x_vtsb0sMNWhCwHaFi?pid=ImgDet&rs=1" style="float:left; max-width:100%; ">
+                
+                <br><br><br><br><br><p style="text-align:center;">Want to know more about mental diseases?<br>
+                    <br><a href="https://sites.google.com/view/mindmatters-peace/common-mental-problems">
+                <button type="button" style="border-radius:5px;border:none;height:35px; width:500px; max-width:100%; color:#335e96; font-weight:bold; font-family:arial; font-size:20px;">Click Here!</button></a><br><br></p></div>
+
+                
+            <br><br><br><br>
+        
+    
+            <div style="background-color:white;margin:5px; font-size:24px; font-family:arial; color:#335e96; ">
+                <img width="550" src="https://th.bing.com/th/id/OIP.3hLU1N5_oo3qDMnolHO_zQHaEK?w=324&h=182&c=7&r=0&o=5&pid=1.7" style="float:left; max-width:100%; max-height:100% background-color:#335e96; margin:5px;">
+                <br><br><p style="text-align:center;"><i>There is no greater wealth in this world than <b>Peace of Mind</b><br><br>Click below to go to our free course to improve your mental health....</i><br><br><a href="https://sites.google.com/view/mindmatters-peace/mind-course">
+                <button type="button" style="border-radius:5px;border:none;height:35px; width:500px; max-width:100%; color:white;background-color:#335e96; font-weight:bold; font-family:arial; font-size:20px;">Click Here!</button></a><br><br></p></div>
+    
+</body>
+</html>
